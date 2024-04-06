@@ -21,3 +21,12 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p>
+
+1 - [Đúc kết kinh nghiệm về PostgreSQL](https://xmind.ai/share/kfo5thzb?xid=GkQNYltl)
+2 - [Đúc kết kinh nghiệm về MongoDB](https://xmind.ai/share/os05pUGm?xid=cg7uTOX9)
+3 - [Tư duy về SQL](https://xmind.ai/share/CcyI7Dsg?xid=7z0Pqgl3)
+4 - [Hiểu về Docker](https://xmind.ai/share/M3k0Pmn3?xid=YsTfwXEK)
+5 - [Kinh nghiệm về Devops(Linux + CI/CD trên Gitlab & Jenkins)](https://docs.google.com/document/d/12md4SIRj-voZ9XE4F2n5GelbYtNf2-lQ/edit?usp=sharing&ouid=102479291702742450536&rtpof=true&sd=true)
+6 - [Setup back-end trên AWS(EC2) with domain](https://drive.google.com/file/d/10GuRr3ufJf-s1KyKZZ6cPacwevgjD9mR/view?usp=sharing)
+7 - [File mẫu để quản lý tasks cho team theo từng tuần](https://docs.google.com/spreadsheets/d/1m53_Io81YKMLy3ioE-Kx4cgi_SWZy06h/edit?usp=sharing&ouid=102479291702742450536&rtpof=true&sd=true)
+8 - [Kinh nghiệm vẽ UML(Usecase, Class Diagram, Sequence Diagram, Database Diagram), System Architecture](https://xmind.ai/share/M3k0Pmn3?xid=YsTfwXEK)
